@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/markinlimac/markinlimac/blob/main/resources/img/waving.gif">, I'm Marco Antônio</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/markinlimac/markinlimac/tree/main/blob/main/resources/img">, I'm Marco Antônio</h1>
 <h4 align="center">a full stack developer an also an software engineering student at Universidade de Brasilia (UnB), see my <a href="https://github.com/markinlimac/markinlimac/blob/main/resumes/Curriculo_MarcoAntonio_2022.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
